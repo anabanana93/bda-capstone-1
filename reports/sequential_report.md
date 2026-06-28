@@ -1,13 +1,18 @@
 # Report
 
-## Serial execution
+ ## Serial execution
 
-Total time: 9.78 seconds
+ Total time: 9.78 seconds
 
-## Parallel execution
+ ## Parallel execution
 
-Total time: 3.64 seconds
+ Total time: 19.92 seconds
 
-## Comparison
+ ## Comparison
 
-Speed improvement: 62.78%
+ Speed improvement: -103.68%
+ ## Download status
+
+Successful downloads: 5
+Failed downloads: 0 
+ 
